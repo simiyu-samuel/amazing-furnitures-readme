@@ -47,9 +47,8 @@ A modern, full-stack furniture e-commerce platform built with React, TypeScript,
 
 ## 🚀 Quick Start
 
-### 1. Clone and Install
+### 1. Extract the downloaded zip and Install
 ```bash
-git clone <repository-url>
 cd amazing-furnitures
 npm install
 ```
